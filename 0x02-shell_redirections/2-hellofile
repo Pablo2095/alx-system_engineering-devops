@@ -1,2 +1,2 @@
 #!/bin/bash
-/etc/passwd. -type f -print | wc -l
+echo '/etc/passwd. -type f -print | wc -l'
